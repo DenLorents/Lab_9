@@ -1,0 +1,6 @@
+C:\Users\loren\RiderProjects\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+C:\Users\loren\RiderProjects\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+C:\Users\loren\RiderProjects\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+C:\Users\loren\RiderProjects\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+C:\Users\loren\RiderProjects\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+C:\Users\loren\RiderProjects\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
